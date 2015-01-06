@@ -42,5 +42,5 @@ Run on an device:
 
 ```
 $ adb devices
-$ phonegap run android --device=<device-code>
+$ phonegap run android --device
 ```
