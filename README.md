@@ -39,8 +39,11 @@ $ phonegap create myapp
 $ phonegap run android
 ```
 Run on an device:
-
 ```
 $ adb devices
 $ phonegap run android --device
+```
+Log:
+```
+$ adb logcat
 ```
