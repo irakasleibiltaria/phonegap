@@ -47,3 +47,6 @@ Log:
 ```
 $ adb logcat
 ```
+Debug:
+
+https://developer.chrome.com/devtools/docs/remote-debugging
