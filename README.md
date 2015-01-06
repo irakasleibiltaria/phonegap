@@ -38,3 +38,9 @@ Create App:
 $ phonegap create myapp
 $ phonegap run android
 ```
+Run on an device:
+
+```
+$ adb devices
+$ phonegap run android --device=<device-code>
+```
