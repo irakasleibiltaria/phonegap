@@ -31,4 +31,5 @@ $ sudo npm install -g phonegap
 Create App:
 ```
 $ phonegap create myapp
+$ phonegap run android
 ```
