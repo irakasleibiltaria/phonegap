@@ -43,6 +43,13 @@ Run on an device:
 $ adb devices
 $ phonegap run android --device
 ```
+Run on an device using phonegap app (download from google play:https://play.google.com/store/apps/details?id=com.adobe.phonegap.app) and then:
+```
+$ phonegap serve
+```
+using the app connect to the server [IP]:3000
+using the app instaled from ""
+
 Log:
 ```
 $ adb logcat
