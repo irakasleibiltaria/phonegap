@@ -61,6 +61,8 @@ $ adb logcat
 
 https://developer.chrome.com/devtools/docs/remote-debugging
 
+http://stackoverflow.com/questions/21332853/is-there-a-real-solution-to-debug-cordova-apps
+
 ###Phonegap Interface design
 
 http://onsen.io/
