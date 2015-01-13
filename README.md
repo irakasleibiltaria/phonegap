@@ -11,34 +11,34 @@ http://docs.phonegap.com/
 
 ##Install:
 
-Java & Android: .bashrc path example:
+###Java & Android: .bashrc path example:
 ```
 #java & android
 export JAVA_HOME=~/Documents/jdk1.8.0_25
 export ANDROID_HOME=~/Documents/android-sdk-linux
 export PATH=$PATH:$JAVA_HOME/bin:$ANDROID_HOME/tools
 ```
-Ant:
+###Ant:
 ```
 $ sudo apt-get install ant
 ```
 
-Nodejs:
+###Nodejs:
 ```
 $ sudo apt-get install nodejs npm
 $ sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
 
-Phonegap:
+###Phonegap:
 ```
 $ sudo npm install -g phonegap
 ```
-Create App:
+####Create App:
 ```
 $ phonegap create myapp
 $ phonegap run android
 ```
-Run on an device:
+####Run on an device:
 ```
 $ adb devices
 $ phonegap run android --device
@@ -50,10 +50,10 @@ $ phonegap serve
 using the app connect to the server [IP]:3000
 using the app instaled from ""
 
-Log:
+####Log:
 ```
 $ adb logcat
 ```
-Debug:
+####Debug:
 
 https://developer.chrome.com/devtools/docs/remote-debugging
