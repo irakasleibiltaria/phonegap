@@ -60,3 +60,9 @@ $ adb logcat
 ####Debug:
 
 https://developer.chrome.com/devtools/docs/remote-debugging
+
+###Phonegap Interface design
+
+http://onsen.io/
+
+https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen
