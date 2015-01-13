@@ -43,7 +43,11 @@ $ phonegap run android
 $ adb devices
 $ phonegap run android --device
 ```
-Run on an device using phonegap app (download from google play:https://play.google.com/store/apps/details?id=com.adobe.phonegap.app) and then:
+Run on an device using phonegap app:
+
+http://app.phonegap.com/
+
+download from google play:https://play.google.com/store/apps/details?id=com.adobe.phonegap.app and then:
 ```
 $ phonegap serve
 ```
