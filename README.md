@@ -9,6 +9,8 @@ Doc:
 
 http://docs.phonegap.com/
 
+http://docs.phonegap.com/en/edge/cordova_camera_camera.md.html
+
 ##Install:
 
 ###Java & Android: .bashrc path example:
