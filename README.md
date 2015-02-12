@@ -70,3 +70,9 @@ http://stackoverflow.com/questions/21332853/is-there-a-real-solution-to-debug-co
 http://onsen.io/
 
 https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen
+
+###Cloud IDE
+http://www.telerik.com/platform#overview
+
+https://monaca.io/
+
